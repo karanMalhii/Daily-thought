@@ -1,0 +1,7 @@
+Steps of creating portfolio in react.js
+
+1. create new project in vite. ( installation ) 
+2. Complete all installation steps.
+3. Create home page under source -> src -> component -> pages.
+4. install tailwind and bootstrap package.
+5. Find best navigation bar from dev.io or bootstrap.
